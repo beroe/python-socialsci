@@ -60,7 +60,7 @@ You are not restricted to single line statements. If the Python interpreter deci
 ## Introducing Jupyter notebooks
 
 Jupyter is the successor to a system called IPython.  Originally IPython was a notebook system only for Python code. Now it is available for a variety of other languages as well so it was appropriate to change the name. We will be using Jupyter notebooks only for Python code.
-We access the Jupyter notebook system from a web browser.  When the Jupter system is started from the command line prompt your browser should start automatically and look something like this;
+We access the Jupyter notebook system from a web browser.  When the Jupyter system is started from the command line prompt your browser should start automatically and look something like this;
 
 ![Jupyter_notebook_list](../fig/Python_jupyter_6.png)
 
@@ -84,6 +84,6 @@ Although there is an option to do so on the toolbar, you do not have to manually
 
 Not only is the contents of the `In` cells saved, but also the `Out` cells.  This allows you to create complete documents with both your code and the output of the code in a single place.  You can also change the cell type of a cell from Python code to  `Markdown` using the `Cell | Cell Type` option. `Markdown` is a simple formatting system which allows you to create documentation for your code, again all within the same notebook structure.
 
-The Notebook itself is stored as a JSON file with an ‘.ipynb’ extension. These JSON files are text based and can be exported  and imported into another Jupyter system. This allows you to share you code, results and documentation with others.
+The Notebook itself is stored as a JSON file with an `.ipynb` extension. These JSON files are text based and can be exported  and imported into another Jupyter system. This allows you to share you code, results and documentation with others.
 
 
